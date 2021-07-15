@@ -17,3 +17,8 @@ And the app gives you your BMI Result!
 
 [Images of the UI present in Issues]
 
+#### Design
+
+Design inspired by Ruben Vaalt on dribbble.
+
+
